@@ -33,3 +33,8 @@ This project compares two leading Indian food delivery platforms—Swiggy and Zo
 - Google Sheets
 - Markdown
 - AI-assisted Analysis
+## Competitor Comparison Chart
+
+The chart below compares key product categories across Swiggy and Zomato.
+
+![Comparison Chart](images/swiggy-vs-zomato-chart.png)
