@@ -12,7 +12,7 @@ This project compares two leading Indian food delivery platforms—Swiggy and Zo
 - Recommend product improvements
 
 ## Competitors
-
+ 
 - Swiggy
 - Zomato
 
