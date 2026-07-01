@@ -9,3 +9,4 @@
 | Customer Support | ⭐⭐⭐ | ⭐⭐ | Swiggy |
 | Discounts | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Swiggy |
 | Subscription | Swiggy One | Zomato Gold | Tie |
+ 
